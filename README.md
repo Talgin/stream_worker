@@ -7,4 +7,4 @@ test_videoStream.py - script that shows how to use videoStream class from video_
 
 TODO
 
-- Write original photos to database
+- Write face detected photos to database
