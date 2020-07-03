@@ -1,6 +1,5 @@
 # This is faster version of video capture and face detection module that utilizes
 # RetinaFace face detector
-# To use just run python video_test_fast.py 
 # You can change face detection model on the 24-th line changing the first parameter for detector
 # Module uses Adrian Rosebrock's imutils library for faster video processing
 import cv2
